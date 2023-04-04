@@ -1,0 +1,1 @@
+// 1. Object Methods are functions that are declared inside the object which perform a specific task,  2. on the data present inside the object.
